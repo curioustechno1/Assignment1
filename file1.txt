@@ -1,3 +1,6 @@
 this is first line
+<<<<<<< HEAD
 this is second time
 THis is the third commit 
+=======
+>>>>>>> parent of fd03125 (This is my second commit)
